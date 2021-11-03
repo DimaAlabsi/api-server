@@ -3,7 +3,7 @@
 require('dotenv').config();
 
 // Connects to our database depending on the URI as an environmental variable
-const POSTGRES_URI =   process.env.NODE_ENV === 'test' ? 'sqlite:memory:' : process.HEROKU_POSTGRESQL_GREEN_URL  || process.env.DATABASE_URL ;
+const POSTGRES_URI =   process.env.NODE_ENV === 'test' ? 'sqlite:memory:' : postgres://ekfpjakerznqsz:a726e200755b66c280c1ca487eac5e896135eab9d58cd9dd0650e070f2f8d433@ec2-52-54-237-144.compute-1.amazonaws.com:5432/dcj1dnb5uifaq
 
  
 
