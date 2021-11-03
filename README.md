@@ -17,7 +17,7 @@
 
 {
 
-  ***"domain": ""***
+  ***"domain": "dimaalabsi-api-server.herokuapp.com"***
 
   ***"status": "running",***
 
@@ -33,17 +33,17 @@
 
 ## Heroku applications 
 
-*   [main branch](https://dimaalabsibasic-api-server.herokuapp.com/)  
-dimaalabsibasic-api-server.herokuapp.com/
+*   [main branch](https://dimaalabsi-api-server.herokuapp.com/)  
+dimaalabsi-api-server.herokuapp.com
 
 ## Github actions
 
-*    [actions](https://github.com/DimaAlabsi/basic-api-server/actions)      
-github.com/DimaAlabsi/basic-api-server/actions
+*    [actions](https://github.com/DimaAlabsi/api-server/actions)      
+github.com/DimaAlabsi/api-server/actions
 ## pull request
 
-* [last pull request](https://github.com/DimaAlabsi/basic-api-server/pull/3)
-github.com/DimaAlabsi/basic-api-server/pull/3
+* [last pull request](https://github.com/DimaAlabsi/api-server/pull/1)
+github.com/DimaAlabsi/api-server/pull/1
 
 
 ### CI, CD: Continuos Intergration and Continuous Deployment
